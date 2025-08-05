@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Matthew 👋</h1>
-<h3 align="center">I'm a software engineering student at the University of Auckland who's passionate about problem-solving and collaborating with others to create awesome applications!</h3>
+<h1 align="center">Hi, I'm Matthew 😎</h1>
+<h3 align="center">I'm a Software Engineering student who's passionate about problem-solving and collaborating with others to create awesome applications!</h3>
 
 <h2 align="left">About Me</h2>
+
+🤓 Currently a 2nd Year Software Engineering student at the University of Auckland
 
 ❤️‍🔥 Some of my past projects: 
   - [Who's Your Pokémon?](https://github.com/mattrenren/Whos-Your-Pokemon)
   - [Bear Lunch Trading]()
 
-🌱 I’m currently learning **React, JavaScript, Java, Python**
+🌳 I’m currently learning **React, JavaScript, Java, Python**
 
-📫 How to reach me: **matthew2ren@gmail.com**
+📱 How to reach me: **matthew2ren@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
