@@ -7,7 +7,7 @@
 
 ❤️‍🔥 Some of my past projects: 
   - [Who's Your Pokémon?](https://github.com/mattrenren/Whos-Your-Pokemon)
-  - [Bear Lunch Trading]()
+  - [Bear Lunch Trading](https://github.com/mattrenren/Bear-Lunch-Trading)
 
 🌳 I’m currently learning **React, JavaScript, Java, Python**
 
